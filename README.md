@@ -1,4 +1,14 @@
-### Olá 👋, clique <a href="https://mycaell.github.io/" target="_blank">AQUI</a> e conheça um pouco mais a meu respeito visualizando meu website pessoal.
+### Olá 👋, clique <a
+              href="https://www.linkedin.com/in/mycaell-oliveira-420747219/"
+              target="_blank"
+            >
+              AQUI
+            </a> e conheça um pouco mais a meu respeito visualizando meu website pessoal.
+
+            
+            
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -15,5 +25,11 @@
 ##
 
 <div> 
+   <a
+    href="https://www.linkedin.com/in/mycaell-oliveira-420747219/"
+    target="_blank"
+  >
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
   <a href="https://www.linkedin.com/in/mycaell-oliveira-420747219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

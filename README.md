@@ -16,5 +16,5 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/mycaell-oliveira-420747219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://mycaell.github.io/" target="_blank"><img src="saodksadsad" target="_blank"></a> 
+  <a href="https://mycaell.github.io/" target="_blank"><img src="" target="_blank">Website pessoal</a> 
 </div>

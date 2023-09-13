@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-<p>Abaixo algumas tecnologias que possuo familiaridade.</p>
+## Segue abaixo algumas das tecnologias em que possuo familiaridade.
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />

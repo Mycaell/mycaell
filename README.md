@@ -1,6 +1,5 @@
-### Olá 👋, clique <a href="https://mycaell.github.io/" target="_blank">AQUI</a> e conheça um pouco mais a meu respeito visualizando meu website pessoal.
+# Olá 👋, clique <a href="https://mycaell.github.io/" target="_blank">AQUI</a> e conheça um pouco mais a meu respeito visualizando meu website pessoal.
 
-<br/>
 <br/>
 <br/>
 
@@ -16,8 +15,6 @@
   <img align="center" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-
-##
 
 <div> 
   <a href="https://www.linkedin.com/in/mycaell-oliveira-420747219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

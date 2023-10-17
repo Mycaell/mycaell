@@ -1,7 +1,7 @@
 ### <p>Olá 👋, clique <a href="https://mycaell.github.io/" target="_blank">AQUI</a> e conheça um pouco mais a meu respeito visualizando meu website pessoal.</p>
 ____
 
-### <p>Segue abaixo algumas das tecnologias em que possuo familiaridade.</p>
+### Segue abaixo algumas das tecnologias em que possuo familiaridade.
 ____
 
 <div style="display: inline_block"><br>

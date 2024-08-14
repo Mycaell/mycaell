@@ -18,5 +18,5 @@ ____
 ____
 
 <div> 
-  <a href="https://www.linkedin.com/in/mycaell-oliveira-420747219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/mycaell-carneiro-420747219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

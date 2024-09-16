@@ -1,7 +1,7 @@
 ### <p>Olá 👋, clique <a href="https://mycaell.github.io/" target="_blank">AQUI</a> e conheça um pouco mais a meu respeito visualizando meu website pessoal.</p>
 ____
 
-## Segue abaixo algumas das tecnologias em que possuo familiaridade.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />

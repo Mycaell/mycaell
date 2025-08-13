@@ -1,4 +1,4 @@
-### <p>Olá 👋, clique <a href="https://mycaell.github.io/" target="_blank">AQUI</a> e conheça um pouco mais a meu respeito visualizando meu website pessoal.</p>
+### <p>Olá 👋</p>
 ____
 
 
